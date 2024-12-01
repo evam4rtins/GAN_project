@@ -72,6 +72,5 @@ At the start, the generated images are just "noise". Over time, they become more
   - Generating realistic images (e.g., StyleGAN).
   - Image style transfer (e.g., turning photos into "paintings").
   - Creating realistic fake human faces.
-- This project serves as a practical introduction to these techniques, helping you understand the fundamentals of how GANs work.
-
-If you have any questions or need further clarification, feel free to reach out!
+- This project serves as a practical introduction to these techniques.
+  
